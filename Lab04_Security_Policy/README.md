@@ -71,7 +71,7 @@ After completing this lab, the following skills were demonstrated:
 
 ## Repository Contents
 - `CCSA104_SecurityPolicy_Morba_Chinonso.pdf` - Complete lab report.
-- `README.txt` - Repository documentation.
+- `README.md` - Repository documentation.
 
 ## Author
 **Morba Chinonso**
